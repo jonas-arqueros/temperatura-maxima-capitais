@@ -7,9 +7,10 @@ Analisar a evolução da temperatura máxima diária em capitais brasileiras uti
 ## Perguntas
 
 - Quais capitais apresentam as maiores temperaturas máximas médias?
-- Houve aquecimento ao longo das últimas décadas?
+- Houve aumento da temperatura máxima ao longo do período analisado?
 - A frequência de dias extremamente quentes aumentou?
-- Existem diferenças regionais?
+- Quais cidades apresentaram as maiores mudanças?
+- Existem diferenças significativas entre as regiões?
 
 ## Ferramentas
 
